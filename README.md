@@ -1,4 +1,4 @@
-# backend-project
+# backend-sequelize-project
 
 Sequelize link: https://sequelize.org/
 Note: Sequelize can be used for both SQL and NOSQL
